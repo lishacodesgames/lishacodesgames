@@ -4,31 +4,23 @@
 ## Currently Working on
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) <br>
-<a href="https://github.com/lishacodesgames/AirRoute-System">
-  
-  ![Air Route System](https://img.shields.io/badge/Air_Route_System-%3A-_?style=for-the-badge&labelColor=%23B3C2F2&color=%23B3C2F2)
-</a> ![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/AirRoute-System?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
+[![Air Route System](https://img.shields.io/badge/Air_Route_System-%3A-_?style=for-the-badge&labelColor=%23B3C2F2&color=%23B3C2F2)](https://github.com/lishacodesgames/AirRoute-System)
+![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/AirRoute-System?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
 ![Latest Tag](https://img.shields.io/github/v/tag/lishacodesgames/AirRoute-System?color=%237DBA84)
-
 <br>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=plastic&logo=raylib&logoColor=black) <br>
-<a href="https://github.com/lishacodesgames/Tetris">
-  
-  ![Tetris](https://img.shields.io/badge/Tetris_in_Raylib-%3A-_?style=for-the-badge&labelColor=%23ACEDFF&color=%23ACEDFF)
-</a> ![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/Tetris?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
+[![Tetris](https://img.shields.io/badge/Tetris_in_Raylib-%3A-_?style=for-the-badge&labelColor=%23ACEDFF&color=%23ACEDFF)](https://github.com/lishacodesgames/Tetris)
+![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/Tetris?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
 ![Latest Tag](https://img.shields.io/github/v/tag/lishacodesgames/Tetris?color=%237DBA84)
-
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-<a href="https://github.com/lishacodesgames/Responsive-Dashboard">
-  
-  ![Responsive-Dashboard](https://img.shields.io/badge/Responsive_Dashboard_UI-%3A-_?style=for-the-badge&labelColor=%23FBF5F3&color=%23FBF5F3)
-</a> ![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/Responsive-Dashboard?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) <br>
+[![Responsive-Dashboard](https://img.shields.io/badge/Responsive_Dashboard_UI-%3A-_?style=for-the-badge&labelColor=%23FBF5F3&color=%23FBF5F3)](https://github.com/lishacodesgames/Responsive-Dashboard)
+![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/Responsive-Dashboard?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
 ![Latest Tag](https://img.shields.io/github/v/tag/lishacodesgames/Responsive-Dashboard?color=%237DBA84)
 
 ## 🌐 Socials:
