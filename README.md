@@ -16,14 +16,6 @@
 ![Latest Tag](https://img.shields.io/github/v/tag/lishacodesgames/Tetris?color=%237DBA84)
 <br>
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) <br>
-[![Responsive-Dashboard](https://img.shields.io/badge/Responsive_Dashboard_UI-%3A-_?style=for-the-badge&labelColor=%23FBF5F3&color=%23FBF5F3)](https://github.com/lishacodesgames/Responsive-Dashboard)
-![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/Responsive-Dashboard?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
-![Latest Tag](https://img.shields.io/github/v/tag/lishacodesgames/Responsive-Dashboard?color=%237DBA84)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lisha-patil) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/coderLisha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lishastudies.cs@gmail.com) 
 
