@@ -10,13 +10,6 @@
 ![Latest Tag](https://img.shields.io/github/v/tag/lishacodesgames/AirRoute-System?color=%237DBA84)
 <br>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
-![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=plastic&logo=raylib&logoColor=black) <br>
-[![Tetris](https://img.shields.io/badge/Tetris_in_Raylib-%3A-_?style=for-the-badge&labelColor=%23ACEDFF&color=%23ACEDFF)](https://github.com/lishacodesgames/Tetris)
-![Commit status](https://img.shields.io/github/last-commit/lishacodesgames/Tetris?display_timestamp=author&style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
-![Latest Tag](https://img.shields.io/github/v/tag/lishacodesgames/Tetris?color=%237DBA84)
-<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lisha-patil) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/coderLisha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lishastudies.cs@gmail.com) 
 
