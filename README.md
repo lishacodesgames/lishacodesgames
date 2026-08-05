@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Heya! I’m a 17 year old, giving her entrance exams for engineering college in India right now. 📖📚📑
+👋 Heya! I’m a 17 year old, studying Computer Science and Engineering, year 1 at MITWPU, Pune. 📖📚📑
 <br>
 
 I've been doing HTML and CSS since 2024 <br>
