@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Heya! I’m a 17 year old, studying Computer Science and Engineering, year 1 at MITWPU, Pune. 📖📚📑
+👋 Heya! I’m a 17 year old, studying Computer Science and Engineering. 📖📚📑
 
 I've been doing HTML and CSS since 2024 <br>
 I've been doing C++ since the beginning of 2025 <br>
