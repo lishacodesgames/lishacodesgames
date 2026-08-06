@@ -12,6 +12,8 @@ I love games and game development, with the hopes of pursuing it myself one day 
 They are littered with all sorts of projects and ideas! <br>
 I would love to know what you think of them via Issues/PRs or even email!
 
+You can check out my project history in my [🧪 Project Lab](https://github.com/users/lishacodesgames/projects/10/views/1)
+
 ## Currently Working on
 <!-- Transaction Tracker -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
