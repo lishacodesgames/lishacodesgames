@@ -1,13 +1,12 @@
 # 💫 About Me:
 👋 Heya! I’m a 17 year old, studying Computer Science and Engineering, year 1 at MITWPU, Pune. 📖📚📑
-<br>
 
 I've been doing HTML and CSS since 2024 <br>
 I've been doing C++ since the beginning of 2025 <br>
-I dabbled a bit in Python and Java, as well, but found my way back to C++ anyways! <br>
+I dabbled a bit in Python and Java, as well, but found my way back to C++ anyways!
 
 I have absolutely fallen in love with the magic of coding 💖 <br>
-I love games and game development, with the hopes of pursuing it myself one day 🤞🍀 <br>
+I love games and game development, with the hopes of pursuing it myself one day 🤞🍀
 
 😂 Anddd visiting My GitHub repositories is like having an adventure. <br>
 They are littered with all sorts of projects and ideas! <br>
@@ -20,8 +19,18 @@ I would love to know what you think of them via Issues/PRs or even email!
 ![Terminal](https://img.shields.io/badge/terminal%20stdout-%234D4D4D.svg?style=plastic&logoColor=white)
 
 [![Transaction Tracker](https://img.shields.io/badge/Transaction_Tracker-%3A-_?style=for-the-badge&labelColor=%23B3C2F2&color=%23B3C2F2)](https://github.com/lishacodesgames/Transaction-Tracker)
-![Last Commit](https://img.shields.io/github/last-commit/lishacodesgames/Transaction-Tracker?style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A)
+![Last Commit](https://img.shields.io/github/last-commit/lishacodesgames/Transaction-Tracker?style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A) <br>
+<ins>**What is it?**</ins> A simple input-to-csv formatter using the pandas library. My first kinda-complex python project.
+<br><br>
 
+<!-- Orum -->
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Compiler](https://img.shields.io/badge/compiler-%236F4A22.svg?style=plastic&logoColor=white)
+
+[![Orum](https://img.shields.io/badge/Orum-%3A-_?style=for-the-badge&labelColor=%23B3C2F2&color=%23B3C2F2)](https://github.com/lishacodesgames/Orum)
+![Last Commit](https://img.shields.io/github/last-commit/lishacodesgames/Orum?style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A) <br>
+<ins>**What is it?**</ins> A compiler for my own programming language "Orum". The name is a play on the latin word for Gold, "Aurum".
+<br><br>
 
 ## 🌐 Socials:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/coderlisha)
@@ -73,7 +82,6 @@ I would love to know what you think of them via Issues/PRs or even email!
 
 ### You can find my work on:
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # 📊 GitHub Stats:
