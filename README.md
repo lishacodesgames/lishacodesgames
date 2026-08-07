@@ -28,10 +28,23 @@ You can check out my project history in my [🧪 Project Lab](https://github.com
 <!-- Orum -->
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Compiler](https://img.shields.io/badge/compiler-%236F4A22.svg?style=plastic&logoColor=white)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
 
 [![Orum](https://img.shields.io/badge/Orum-%3A-_?style=for-the-badge&labelColor=%23B3C2F2&color=%23B3C2F2)](https://github.com/lishacodesgames/Orum)
 ![Last Commit](https://img.shields.io/github/last-commit/lishacodesgames/Orum?style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A) <br>
 <ins>**What is it?**</ins> A compiler for my own programming language "Orum". The name is a play on the latin word for Gold, "Aurum".
+<br><br>
+
+<!-- Lichen -->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=plastic&logo=cmake&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl)
+
+[![Lichen](https://img.shields.io/badge/Lichen-%3A-_?style=for-the-badge&labelColor=%23B3C2F2&color=%23B3C2F2)](https://github.com/lishacodesgames/Lichen)
+![Last Commit](https://img.shields.io/github/last-commit/lishacodesgames/Lichen?style=for-the-badge&labelColor=%23F7C1BB&color=%23885A5A) <br>
+<ins>**What is it?**</ins> A 2D game engine based in OpenGL
 <br><br>
 
 ## 🌐 Socials:
